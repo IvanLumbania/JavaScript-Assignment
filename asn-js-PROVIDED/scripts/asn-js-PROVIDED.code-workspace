@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../lab-js-PROVIDED"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asn-js-PROVIDED"
+	}
+}
